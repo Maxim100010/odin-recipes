@@ -1,1 +1,1 @@
-# odin-recipes
+First odin project demonstrating HTML knowledge
